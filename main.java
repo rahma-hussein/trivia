@@ -23,7 +23,7 @@ public class main{
 	private static int LIVES = 3;
 	private static Set<Integer> indexs = new HashSet<Integer>();
 	public static void main(String[] args){
-		System.out.println("\n\t\t\t===================\n\t\t\tGreetings!! ay bebe\n\t\t\t===================\n");
+		System.out.println("\n\t\t\t===================\n\t\t\tGreetings!! \n\t\t\t===================\n");
 		// LinkedHashMap<String, String> map = new LinkedHashMap<String, String>();
 		// String[] qArray = qADic(map, "/home/seb/trivia.txt");
 
